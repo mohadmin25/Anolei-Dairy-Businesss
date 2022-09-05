@@ -1,0 +1,20 @@
+{ "shades": [
+    {"id":1,
+     "production": 516 "litres",
+    }
+
+    {"id":2,
+     "production": 308 "litres",
+     }
+
+   {"id":3,
+   "production":486 "litres"
+   } 
+
+
+    {"id":4,
+     "production": 572 "litres"
+    }
+
+]
+}
